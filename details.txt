@@ -1,0 +1,16 @@
+pip install virtualenv
+virtualenv venv
+./venv/Scripts/activate.bat
+
+pip install flask Flask-PyMongo flask-cors  
+db: uSer Password: 1dSX06ZcDctrmRuq   
+
+
+react-toastify
+
+used: React , python, flask, Mongodb,toastify,bootstrap,nodejs
+frontend:
+backend:
+pip install gunicorn
+touch Procfile
+ pip freeze > requirements.txt
